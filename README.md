@@ -1,4 +1,4 @@
-### Hi, I'm Jay
+## Hi, I'm Jay
 
 
 I am an Algorithmic Trading Developer from the Philippines. My work focuses on translating trading research and strategies into trading algorithms in live market conditions, and developing risk management tools, primarily through the MetaTrader platform. 
@@ -9,7 +9,7 @@ I hold a Bachelor's Degree in Electronics Engineering, which allowed me to build
 
 <a href = "https://www.linkedin.com/in/jay-alfaras"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"  width="40" height="40">
 
-
+*Disclaimer: Contents of this repository does not, and is not intented to, constitute financial advice.*
 <!--
 **alfarasjb/alfarasjb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
